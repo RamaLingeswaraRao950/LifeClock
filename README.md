@@ -15,7 +15,7 @@ From leap years to heartbeats ❤️, it turns your life data into meaningful nu
   - Fun facts : total heartbeats ❤️, breaths 🌬️, and steps 🚶
 
 - 🎯 **Life Progress Bar :**
-  - Color-coded: 🟢 Green, 🔴 Red
+  - Color-coded : 🟢 Green, 🔴 Red
 
 - 🖥 **Smooth UI :**
   - Modern button hover effects ✨
@@ -55,4 +55,4 @@ From leap years to heartbeats ❤️, it turns your life data into meaningful nu
 👨‍💻 Author :--
 
 - Rama Lingeswara Rao Sivakavi.
-- 💼 Technical Support Engineer L1 | 🚀 Passionate Developer.
+- 🚀 Passionate Developer 💼.
