@@ -1,6 +1,6 @@
 # ⏳ LifeClock ⏳
 
-**LifeClock** is a visually engaging application that calculates and displays your **life statistics** in real time.  
+LifeClock is a visually engaging application that calculates and displays your life statistics in real time.  
 From leap years to heartbeats ❤️, it turns your life data into meaningful numbers — because every second counts !
 
 ### ✨ Features :--
@@ -15,7 +15,7 @@ From leap years to heartbeats ❤️, it turns your life data into meaningful nu
   - Fun facts : total heartbeats ❤️, breaths 🌬️, and steps 🚶
 
 - 🎯 **Life Progress Bar :**
-  - Color-coded: 🟢 Green, 🟠 Yellow, 🔴 Red
+  - Color-coded: 🟢 Green, 🔴 Red
 
 - 🖥 **Smooth UI :**
   - Modern button hover effects ✨
@@ -35,9 +35,8 @@ From leap years to heartbeats ❤️, it turns your life data into meaningful nu
    
               - From your age tab → Enter age in years.  
               - From your DOB tab → Enter date in DD-MM-YYYY format.
-   
 4. Click Calculate.
-5. View your life stats in real time, including fun facts and progress bar.
+5. View your life stats in real time, including fun facts.
 
 ### ⚙️ Tech Stack :--
 
@@ -51,9 +50,7 @@ From leap years to heartbeats ❤️, it turns your life data into meaningful nu
 - 🌍 Localization for different languages.
 - 🎵 Optional heartbeat sound effect synced with pulse animation.
 
-📜 License :--
-
-- Feel free to use, modify, and distribute.
+📜 Feel free to use, modify, and distribute.
 
 👨‍💻 Author :--
 
