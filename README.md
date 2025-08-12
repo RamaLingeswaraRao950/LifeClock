@@ -5,19 +5,19 @@ From leap years to heartbeats ❤️, it turns your life data into meaningful nu
 
 ### ✨ Features :--
 
-1. 📅 **Multiple Input Modes :**  
+- 📅 **Multiple Input Modes :**  
   - **From Age** → Enter your age in years.  
   - **From DOB** → Enter your date of birth (DD-MM-YYYY).
 
-2. 📊 **Detailed Life Stats :**
+- 📊 **Detailed Life Stats :**
   - Leap years lived 🌟
   - Approximate years, months, days, hours, minutes, seconds, milliseconds ⏱️
   - Fun facts : total heartbeats ❤️, breaths 🌬️, and steps 🚶
 
-3. 🎯 **Life Progress Bar :**
+- 🎯 **Life Progress Bar :**
   - Color-coded : 🟢 Green, 🔴 Red
 
-4. 🖥 **Smooth UI :**
+- 🖥 **Smooth UI :**
   - Modern button hover effects ✨
   - Auto-centered input dialogs
   - Scrollable results section
@@ -35,8 +35,8 @@ From leap years to heartbeats ❤️, it turns your life data into meaningful nu
    
               - From your age tab → Enter age in years.  
               - From your DOB tab → Enter date in DD-MM-YYYY format.
-4. Click Calculate.
-5. View your life stats in real time, including fun facts.
+3. Click Calculate.
+4. View your life stats in real time, including fun facts.
 
 ### ⚙️ Tech Stack :--
 
